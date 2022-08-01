@@ -3,13 +3,9 @@ title: "AWS Relational Database Service"
 date: "2022-05-03"
 ---
 
-# Amazon Relational Database Service
-
-Amazon Relational Database Service is a scalable managed service for providing applications with a relational database in the cloud. The…
-
----
-
 ![](https://cdn-images-1.medium.com/max/800/1*yd6DddXWGwUoOFQztzqU_A.png)
+
+# Amazon Relational Database Service
 
 Amazon Relational Database Service is a scalable managed service for providing applications with a relational database in the cloud. The real strength — scalability. Databases are notoriously hard to monitor, back up, scale up and down.
 

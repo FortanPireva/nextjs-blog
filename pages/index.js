@@ -11,10 +11,13 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi I am Fortan Pireva, a distinguished software engineer</p>
+        <p>
+          Hi I am Fortan Pireva, a passionate software engineer with a degree in
+          computer engineering
+        </p>
         <p>
           A full-stack developer with a passion for building web applications
-          using technlogies like React, Node, and Asp.Net Core.
+          using technologies like React, Node, and Asp.Net Core.
         </p>
         <p>Web Development Skills</p>
         <ul>
